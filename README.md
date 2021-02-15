@@ -1,1 +1,3 @@
-# signal-clone-rn
+# signal-clone
+
+Signal Clone developed in React Native
